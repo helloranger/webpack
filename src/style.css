@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'RuiZi';
+  src: url('./锐字真言体.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+.hello {
+  font-family: 'RuiZi';
+  font-size: 18px;
+  color:black;
+  /* background: url('./icon.png'); */
+}
+
